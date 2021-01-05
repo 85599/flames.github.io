@@ -18,7 +18,7 @@
 
 Github Url 
 ```
-(https://github.com/85599)
+[https://github.com/85599](https://github.com/85599)
 ```
 
 
@@ -27,6 +27,6 @@ USAGE
 
 Simply Click on this 
 ```
-(85599.github.io/)
+[85599.github.io/](85599.github.io/)
 ```
 
